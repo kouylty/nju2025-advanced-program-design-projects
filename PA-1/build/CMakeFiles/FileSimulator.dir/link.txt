@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FileSimulator.dir/src/ClientInterface.cpp.o CMakeFiles/FileSimulator.dir/src/Directory.cpp.o CMakeFiles/FileSimulator.dir/src/File.cpp.o CMakeFiles/FileSimulator.dir/src/FileObj.cpp.o CMakeFiles/FileSimulator.dir/src/FileSystem.cpp.o CMakeFiles/FileSimulator.dir/src/VFS.cpp.o CMakeFiles/FileSimulator.dir/src/main.cpp.o -o bin/FileSimulator 
